@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv*/
+build/
+dist/
+*.zip
+WezCrypt_Cases/
+WezCrypt_Logs/
+wezcrypt_config.json
+.pytest_cache/

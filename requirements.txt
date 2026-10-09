@@ -1,0 +1,5 @@
+# Runtime dependencies (bundled into the portable build; nothing is installed on the examined host)
+psutil>=5.9.8
+reportlab>=4.1.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2

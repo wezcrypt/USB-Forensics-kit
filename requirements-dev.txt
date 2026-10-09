@@ -1,0 +1,3 @@
+# Build and test tooling (examiner workstation only)
+pyinstaller>=6.6.0
+pytest>=8.0.0

@@ -1,0 +1,6 @@
+# WezCrypt USB Forensics Kit - IOC list format (one indicator per line, '#' starts a comment)
+# Supported: SHA-256 / SHA-1 / MD5 hashes, IPv4/IPv6 addresses, domain names (subdomains match).
+# The entries below are documentation placeholders (RFC 5737 / RFC 2606) - replace with your own intelligence.
+0000000000000000000000000000000000000000000000000000000000000000
+192.0.2.10
+malicious.example
